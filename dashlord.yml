@@ -96,7 +96,7 @@ urls:
     category: startup
   - url: https://mobilic.beta.gouv.fr
     category: startup
-  - url: https://mon-entreprise.fr
+  - url: https://mon-entreprise.urssaf.fr
     category: startup
     repositories:
       - betagouv/mon-entreprise
